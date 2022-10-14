@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b417a5bc7baf6f1458e097acf0c4a4ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Andina
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3ca25f5cd0197b4597fec9569408734, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
